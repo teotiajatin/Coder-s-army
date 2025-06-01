@@ -1,3 +1,4 @@
 # Coder-s-army
 This is my first repository.
-Author-Jatin Teotia
+Author-Jatin Teotia (Galgotias University)
+
